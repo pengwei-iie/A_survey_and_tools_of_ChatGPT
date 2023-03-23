@@ -65,7 +65,7 @@ GitHub 将 Copilot 升级为 Copilot X
  
 一款论文总结工具，根据用户输入的关键词，自动在arxiv上下载最新的论文，再利用ChatGPT3.5的API接口的总结能力，将论文总结为固定的格式。
 
- [链接](github.com/kaixindelele/ChatPaper)
+ [链接](https://github.com/kaixindelele/ChatPaper)
  
   ## 标注工具
   
