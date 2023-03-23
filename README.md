@@ -79,6 +79,38 @@ GitHub 将 Copilot 升级为 Copilot X
   
  [链接](https://github.com/bigemon/ChatGPT-ToolBox)
  
- # 
- 
  感谢大佬们的开源，新的项目持续更新中... :smile:
+
+ 下面是一些paper或者博文阅读
+ 
+ # Paper or Blogs
+ 
+ ## Copilot X 3-23 来源 新智元
+ 
+ GPT-4加强版Copilot来了！刚刚，GitHub发布了新一代代码生成工具GitHub Copilot X，动嘴写代码不再是梦。
+ 
+ [链接](https://mp.weixin.qq.com/s/ATxJXbXOH9cQnx6VSkTB6A)
+
+ ## 微软必应再进化！接入DALL·E模型 3-22 来源 Cver
+ 
+ 微软正式宣布，必应搜索引擎接入了 OpenAI 的 DALL·E 模型，增加了 AI 生成图像的功能。
+ 
+ [链接](https://mp.weixin.qq.com/s/omJTedz-8EuTcJG4cFk3Ng)
+ 
+ ## 人工智能 Firefly 3-21 来源 Adobe PS
+ 
+ Adobe Firefly，Adobe的创意生成式AI模型集。它将Adobe创意及数字体验应用的强大功能与人工智能结合，帮助设计师提升设计的效率，突破创意的边界。
+ 
+ [链接](https://mp.weixin.qq.com/s/5sYKV-5NU0yr2flvvDziOw)
+ 
+ ## ChatGPT被玩疯了，开始放飞自我 2-24 来源 CSDN
+ 
+ ChatGPT版微软必应上线不到10天…就被网友玩坏了 (3.23更新 有些问题已经得到解决)
+ 
+ [链接](https://blog.csdn.net/ganxiwu9686/article/details/129133768?spm=1001.2014.3001.5501)
+ 
+ ## 复旦 MOSS 2-28 来源 CSDN
+ 
+ 复旦团队发布国内首个模型MOSS 类ChatGPT
+ 
+ [链接](https://blog.csdn.net/ganxiwu9686/article/details/129133768?spm=1001.2014.3001.5501)
