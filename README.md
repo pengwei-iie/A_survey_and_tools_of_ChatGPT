@@ -80,6 +80,16 @@ GitHub 将 Copilot 升级为 Copilot X
 
  [访问链接](https://github.com/kaixindelele/ChatPaper)
  
+ ## ChatPaper
+ 
+一款读论文的工具，可以将论文下载下来，或者直接输入论文的网页链接，然后对其进行提问。帮助不想看论文的你或者需要调研新领域的你！
+ 
+![image](https://user-images.githubusercontent.com/30322673/227422907-4158e8ca-66bb-46fb-af5e-ed3e60be26b3.png)
+
+ [访问链接](https://github.com/mukulpatnaik/researchgpt)
+
+
+  
   ## 标注工具
   
  开源数据标注工具🥔Potato，支持几乎所有类型的文本标注任务，只需要通过简单配置就可以生成一个面向标注者的web页面，支持数据管理，标注质量管理等功能，模版库已覆盖20+项目
