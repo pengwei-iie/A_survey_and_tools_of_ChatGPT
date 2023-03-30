@@ -80,7 +80,7 @@ GitHub 将 Copilot 升级为 Copilot X
 
  [访问链接](https://github.com/kaixindelele/ChatPaper)
  
- ## ChatPaper
+ ## Researchgpt
  
 一款读论文的工具，可以将论文下载下来，或者直接输入论文的网页链接，然后对其进行提问。帮助不想看论文的你或者需要调研新领域的你！
  
@@ -88,7 +88,13 @@ GitHub 将 Copilot 升级为 Copilot X
 
  [访问链接](https://github.com/mukulpatnaik/researchgpt)
 
+ ## Chat-extension
+ 
+开发的 Chrome 插件，提供了另一种快速阅读论文的工作流。
 
+![930ce956af9ede6cacd3ec274b69d14](https://user-images.githubusercontent.com/30322673/228812844-6289f424-e7f3-49cc-a996-42476ef50e2d.jpg)
+
+ [访问链接](https://github.com/sailist/chatgpt-enhancement-extension)
   
   ## 标注工具
   
