@@ -3,6 +3,30 @@ Some survey and tools of ChatGPT or ChatGPT-Style Model.
 
 为了整理相关的类ChatGPT工具，写下这篇文档，仅供学术研究:smile:。以下工具来源于github项目收集和整理，喜欢的朋友可以star!
 
+## 二维码制作demo，让你的名片不再黑白
+
+这个还挺有意思的，直接去上面申请就好，然后使用命令 /qrart 和 prompt
+
+![image](https://github.com/pengwei-iie/A_survey_and_tools_of_ChatGPT/assets/30322673/73305041-9c70-491a-b13f-748b6844ef54)
+
+下图是自己做的一个demo
+
+![qrcode-ok](https://github.com/pengwei-iie/A_survey_and_tools_of_ChatGPT/assets/30322673/be64cb7a-aed6-44db-a808-472c9a4b0122)
+
+[访问链接](https://discord.com/)
+
+## pdf, word 文档阅读功能
+
+claude.ai 直接出了类似chatpdf的工具，直接杀死一系列好吧
+
+支持同时对最多 5 个 10 MB 以内文档同时进行总结分析。支持 pdf、text、csv 等格式。
+
+目前已经面向 UK 和 US 用户免费开放使用，有兴趣的人可以科学尝试一下，在 GPT-4 需要付费订阅的情况下，这是一个不错的替代选择。
+
+<img width="537" alt="43a8b6498fc80ad21e1edaa34a2a94b" src="https://github.com/pengwei-iie/A_survey_and_tools_of_ChatGPT/assets/30322673/76289abb-cc65-4bdb-ba36-f623356dd9ce">
+
+[访问链接](https://claude.ai/chat/b4a8bef8-009e-44ea-a395-cf1cbcadcf6a)
+
 ## 微软接入绘图功能
 
 每个账户一开始有10次快速生成的机会，后面不需要额外的付费，但是速度会慢一些。
